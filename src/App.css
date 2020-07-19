@@ -12,24 +12,6 @@ a{
   color:#333;
   text-decoration: none;
 }
-/* .container{
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  grid-template-rows:200px;
-  grid-template-areas:
-      "title deck"
-      "card .";
-
-} */
-/* .title {
-  grid-area:title;
-} */
-/* .selectDeck{
-  grid-area:deck;
-} */
-/* .card{
-  grid-area:card;
-} */
 .center{
   position:fixed;
   top: 50%;

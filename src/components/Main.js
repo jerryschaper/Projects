@@ -43,7 +43,7 @@ class Main extends React.Component {
         </div>
       );
   }
-  previous = () => {
+   previous = () => {
     let index = this.state.currentCardIndex;
     if (index <= 0){
       return;
